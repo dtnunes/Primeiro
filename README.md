@@ -1,3 +1,3 @@
 # Primeiro
-Pequeno teste para experimentar no Ramo
+Pequeno exercicio para experimentar no Ramo
 BLA BLA BLA
